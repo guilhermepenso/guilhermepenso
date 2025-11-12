@@ -1,10 +1,15 @@
-## Hi there 👋, Welcome!
 
-...
+# Hi there 👋, Welcome!
+
+<br/>
+<img width="1584" height="396" alt="linkedin-banner" src="https://github.com/user-attachments/assets/bad006c0-22dc-41df-b1b5-1fd27d57e006" />
+<br/>
+<br/>
+
 
 Hello! My name is <strong>Guilherme Penso</strong>. I'm from Centro Universitário Unidombosco taking Analysis and System Development.
 
-I have a big interest in mobile development and also gaming coding as a hobby. At the moment i'm studying React Native, Expo, TypeScript and AWS.
+I have a big interest in mobile development and also gaming coding as a hobby. At the moment i'm studying React Native, Expo, TypeScript and Docker.
 
 Currently working at Avotech with React Native & Expo stack as well as AWS services for backend with Serverless.
 
